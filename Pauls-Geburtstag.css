@@ -1,0 +1,238 @@
+.u-section-1 .u-sheet-1 {
+  min-height: 853px;
+}
+
+.u-section-1 .u-layout-wrap-1 {
+  margin-top: 60px;
+  margin-bottom: 21px;
+}
+
+.u-section-1 .u-image-1 {
+  min-height: 602px;
+  background-image: url("images/DSC_0966_210824_083407.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-container-layout-1 {
+  padding: 30px;
+}
+
+.u-section-1 .u-layout-cell-2 {
+  min-height: 602px;
+}
+
+.u-section-1 .u-container-layout-2 {
+  padding: 30px;
+}
+
+.u-section-1 .u-text-1 {
+  margin: 0;
+}
+
+.u-section-1 .u-text-2 {
+  margin-left: 0;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+
+.u-section-1 .u-text-3 {
+  margin-left: 0;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+
+.u-section-1 .u-image-2 {
+  min-height: 257px;
+  background-image: url("images/DSC_0969_210824_083537.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-container-layout-3 {
+  padding: 30px;
+}
+
+.u-section-1 .u-image-3 {
+  min-height: 257px;
+  background-image: url("images/DSC_0970_210824_083540.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-container-layout-4 {
+  padding: 30px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 740px;
+  }
+
+  .u-section-1 .u-layout-wrap-1 {
+    position: relative;
+  }
+
+  .u-section-1 .u-image-1 {
+    min-height: 496px;
+  }
+
+  .u-section-1 .u-layout-cell-2 {
+    min-height: 496px;
+  }
+
+  .u-section-1 .u-image-2 {
+    min-height: 212px;
+  }
+
+  .u-section-1 .u-image-3 {
+    min-height: 212px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 617px;
+  }
+
+  .u-section-1 .u-image-1 {
+    min-height: 380px;
+  }
+
+  .u-section-1 .u-layout-cell-2 {
+    min-height: 100px;
+  }
+
+  .u-section-1 .u-image-2 {
+    min-height: 162px;
+  }
+
+  .u-section-1 .u-image-3 {
+    min-height: 162px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 954px;
+  }
+
+  .u-section-1 .u-image-1 {
+    min-height: 428px;
+  }
+
+  .u-section-1 .u-container-layout-1 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-1 .u-container-layout-2 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-1 .u-image-2 {
+    min-height: 182px;
+  }
+
+  .u-section-1 .u-container-layout-3 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-1 .u-image-3 {
+    min-height: 365px;
+  }
+
+  .u-section-1 .u-container-layout-4 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 638px;
+  }
+
+  .u-section-1 .u-image-1 {
+    min-height: 269px;
+  }
+
+  .u-section-1 .u-image-2 {
+    min-height: 115px;
+  }
+
+  .u-section-1 .u-image-3 {
+    min-height: 230px;
+  }
+}.u-section-2 .u-sheet-1 {
+  min-height: 500px;
+  margin-bottom: 0;
+}
+
+.u-section-2 .u-gallery-1 {
+  height: 457px;
+  margin-bottom: 13px;
+  margin-top: 30px;
+}
+
+.u-section-2 .u-gallery-inner-1 {
+  grid-gap: 10px 10px;
+  grid-template-columns: auto auto;
+}
+
+.u-section-2 .u-over-slide-1 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.2), rgba(0,0,0,0.2));
+  padding: 20px;
+}
+
+.u-section-2 .u-over-slide-2 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.2), rgba(0,0,0,0.2));
+  padding: 20px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 420px;
+  }
+
+  .u-section-2 .u-gallery-1 {
+    height: 377px;
+  }
+
+  .u-section-2 .u-gallery-inner-1 {
+    grid-template-columns: repeat(2, auto);
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 1198px;
+  }
+
+  .u-section-2 .u-gallery-1 {
+    height: 1155px;
+  }
+
+  .u-section-2 .u-gallery-inner-1 {
+    grid-template-columns: repeat(1, auto);
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 909px;
+  }
+
+  .u-section-2 .u-gallery-1 {
+    height: 866px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 588px;
+  }
+
+  .u-section-2 .u-gallery-1 {
+    height: 545px;
+  }
+}
